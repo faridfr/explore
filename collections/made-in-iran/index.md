@@ -7,6 +7,9 @@ items:
  - sobhe/moratab
  - PyFarsi/pyabr
  - jamedadi/yummy
+ - novaday-co/flutter_event_calendar
+ - novaday-co/inspection
+ - faridfr/react-personal-website
 display_name: Made in Iran
 created_by: Javad
 image: made-in-iran.png
